@@ -17,7 +17,7 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program.
 
 ## Program:
-Inverse Of A Matrix :
+Inverse of a  matrix :
 ```
 import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
